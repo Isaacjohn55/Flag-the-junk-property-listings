@@ -27,4 +27,4 @@ This score will be calculated using your predictions for the test file.
 
 #Result :
 
-After data preprocessing and using basic logistic regression model ROC_AUC score came : 06429
+After data preprocessing and using basic logistic regression model ROC_AUC score came : 0.6429
