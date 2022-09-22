@@ -1,4 +1,4 @@
-# Flag-the-junk-property-listings
+# Flag the junk property listings
 
 As the real estate becomes a scarce commodity in big cities of the world; renovating old properties for sale is becoming a thriving business. However, not every property becomes an attractive portfolio after tons of time, money and effort goes into giving it a second life. 
 
